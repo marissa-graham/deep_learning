@@ -2,5 +2,4 @@
 
 Lab specs and objectives can be found here: http://liftothers.org/dokuwiki/doku.php?id=cs501r_f2018 
 
-TODO
-* Describe your final project, emphasizing that you picked the topic, you picked the objectives, you constructed a nice dataset from a messy garbage pile of extant but unusable data.
+I realized about five minutes after turning in my final project why you're supposed to keep the validation set separate from the rest of your data. I thought I was being so clever with all the random sampling while I was writing the code, too. But it was too late to rerun the experiments, and it seemed dishonest to make an edited version of the writeup to put on github instead of keeping the one I actually turned in.
